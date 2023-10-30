@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://razchiriac.github.io/csb-wxh9t3/static/css/main.7cc53426.chunk.css",
+    "main.js": "https://razchiriac.github.io/csb-wxh9t3/static/js/main.0e18cd02.chunk.js",
+    "main.js.map": "https://razchiriac.github.io/csb-wxh9t3/static/js/main.0e18cd02.chunk.js.map",
+    "runtime-main.js": "https://razchiriac.github.io/csb-wxh9t3/static/js/runtime-main.3aea767e.js",
+    "runtime-main.js.map": "https://razchiriac.github.io/csb-wxh9t3/static/js/runtime-main.3aea767e.js.map",
+    "static/js/2.7647ea45.chunk.js": "https://razchiriac.github.io/csb-wxh9t3/static/js/2.7647ea45.chunk.js",
+    "static/js/2.7647ea45.chunk.js.map": "https://razchiriac.github.io/csb-wxh9t3/static/js/2.7647ea45.chunk.js.map",
+    "index.html": "https://razchiriac.github.io/csb-wxh9t3/index.html",
+    "static/css/main.7cc53426.chunk.css.map": "https://razchiriac.github.io/csb-wxh9t3/static/css/main.7cc53426.chunk.css.map",
+    "static/js/2.7647ea45.chunk.js.LICENSE.txt": "https://razchiriac.github.io/csb-wxh9t3/static/js/2.7647ea45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aea767e.js",
+    "static/js/2.7647ea45.chunk.js",
+    "static/css/main.7cc53426.chunk.css",
+    "static/js/main.0e18cd02.chunk.js"
+  ]
+}
